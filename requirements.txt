@@ -1,0 +1,2 @@
+spark-nlp==2.4.5
+pyspark==2.4.4
